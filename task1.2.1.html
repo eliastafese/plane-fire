@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dynamic Animated Skills Bar</title>
+    <link rel="stylesheet" href="task.css">
+</head>
+<body>
+    
+    <div class="card">
+        <h2>በስታንዳርድ የተሰጠ አገልግሎትን ከ81.3% ወደ 85% ማድረስ</h2>
+        <!-- Skill Bar Section -->
+        <div class="skill-container">
+            <div class="skill-info">
+                <span>ወቅቱንና ጥራቱን የጠበቀ 1 ዕቅድ ሰነድ ማዘጋጅት</span>
+                <span id="skill-percentage">0%</span>
+            </div>
+            <div class="progress-bar-bg">
+                <div id="progress-fill" class="progress-fill"></div>
+            </div>
+        </div>
+        <!-- HTML Form Component -->
+        <form id="skill-form">
+            <div class="form-group">
+                <label for="skill-value">1 ዕቅድ ሰነድ ማዘጋጅት ( 1 ):</label>
+                <input type="number" id="skill-value" min="0" max="100" value="70" required>
+            </div>
+            <button type="submit">Update Skill Level</button>
+        </form>
+    </div>
+    
+    <script src="task.js"></script>
+</body>
+</html>

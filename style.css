@@ -1,0 +1,387 @@
+.body{
+  margin: 1px;
+  padding: 20cm;
+}
+
+ul{
+  list-style: none;
+  background-color: rgb(236, 214, 214);
+  color: black;
+  font-weight: 300;
+}
+ul li{
+  display: inline-block;
+  padding: 10px;  
+}
+
+ul li:hover{
+  background-color: rgb(250, 252, 250);
+  color: black;
+}
+/*.dropdown{display: none;}*/
+
+ul li:hover .dropdown{
+  display: block;
+  position: absolute;
+  margin-left: -1.32cm;
+  margin-top: -0.0000cm;
+  width: 14.0cm;
+}
+.dropdown ul{
+  margin: 0;
+  padding: 0;
+}
+.dropdown ul li{
+  display: block;
+  position: relative;
+}
+.dropdown11{display: none;}
+.dropdown ul li:hover .dropdown11{
+  display: block;
+  position: absolute;
+  margin-left: 13.50cm;
+  margin-top: -0.75cm;
+  width: 14.0cm;
+}
+
+.dropdown111{display: none;}
+.dropdown11 ul li:hover .dropdown111{
+  display: block;
+  position: absolute;
+  margin-left: 13.50cm;
+  margin-top: -0.74cm;
+  width: 14.50cm;
+}
+
+.dropdown112{display: none;}
+.dropdown11 ul li:hover .dropdown112{
+  display: block;
+  position: absolute;
+  margin-left: 13.50cm;
+  margin-top: -0.73cm;
+  width: 14.50cm;
+}
+
+.dropdown13{display: none;}
+.dropdown11 ul li:hover .dropdown13{
+  display: block;
+  position: absolute;
+  margin-left: 13.50cm;
+  margin-top: -0.73cm;
+  width: 14.50cm;
+}
+
+.dropdown14{display: none;}
+.dropdown11 ul li:hover .dropdown14{
+  display: block;
+  position: absolute;
+  margin-left: 13.50cm;
+  margin-top: -0.73cm;
+  width: 14.50cm;
+}
+
+.dropdown15{display: none;}
+.dropdown11 ul li:hover .dropdown15{
+  display: block;
+  position: absolute;
+  margin-left: 13.50cm;
+  margin-top: -0.73cm;
+  width: 14.50cm;
+}
+
+.dropdown16{display: none;}
+.dropdown11 ul li:hover .dropdown16{
+  display: block;
+  position: absolute;
+  margin-left: 13.50cm;
+  margin-top: -0.73cm;
+  width: 14.50cm;
+}
+
+.dropdown17{display: none;}
+.dropdown11 ul li:hover .dropdown17{
+  display: block;
+  position: absolute;
+  margin-left: 13.50cm;
+  margin-top: -0.73cm;
+  width: 14.50cm;
+}
+
+.dropdown18{display: none;}
+.dropdown11 ul li:hover .dropdown18{
+  display: block;
+  position: absolute;
+  margin-left: 13.50cm;
+  margin-top: -0.73cm;
+  width: 14.50cm;
+}
+
+.dropdown19{display: none;}
+.dropdown11 ul li:hover .dropdown19{
+  display: block;
+  position: absolute;
+  margin-left: 13.50cm;
+  margin-top: -0.73cm;
+  width: 14.50cm;
+}
+
+.dropdown22{display: none;}
+.dropdown ul li:hover .dropdown22{
+  display: block;
+  position: absolute;
+  margin-left: 13.7cm;
+  margin-top: -0.75cm;
+  width: 14.0cm;
+}
+
+.dropdown221{display: none;}
+.dropdown22 ul li:hover .dropdown221{
+  display: block;
+  position: absolute;
+  margin-left: 13.50cm;
+  margin-top: -0.73cm;
+  width: 14.50cm;
+}
+
+.dropdown222{display: none;}
+.dropdown22 ul li:hover .dropdown222{
+  display: block;
+  position: absolute;
+  margin-left: 13.50cm;
+  margin-top: -0.73cm;
+  width: 14.50cm;
+}
+
+.dropdown223{display: none;}
+.dropdown22 ul li:hover .dropdown223{
+  display: block;
+  position: absolute;
+  margin-left: 13.50cm;
+  margin-top: -01.2cm;
+  width: 14.50cm;
+}
+
+.dropdown224{display: none;}
+.dropdown22 ul li:hover .dropdown224{
+  display: block;
+  position: absolute;
+  margin-left: 13.50cm;
+  margin-top: -01.199cm;
+  width: 14.50cm;
+}
+
+.dropdown225{display: none;}
+.dropdown22 ul li:hover .dropdown225{
+  display: block;
+  position: absolute;
+  margin-left: 13.50cm;
+  margin-top: -01.19cm;
+  width: 14.50cm;
+}
+
+.dropdown3{display: none;}
+.dropdown ul li:hover .dropdown3{
+  display: block;
+  position: absolute;
+  margin-left: 13.7cm;
+  margin-top: -0.75cm;
+  width: 14.50cm;
+}
+
+.dropdown31{display: none;}
+.dropdown3 ul li:hover .dropdown31{
+  display: block;
+  position: absolute;
+  margin-left: 13.50cm;
+  margin-top: -0.73cm;
+  width: 14.50cm;
+}
+
+.dropdown32{display: none;}
+.dropdown3 ul li:hover .dropdown32{
+  display: block;
+  position: absolute;
+  margin-left: 13.50cm;
+  margin-top: -0.73cm;
+  width: 14.50cm;
+}
+
+.dropdown33{display: none;}
+.dropdown3 ul li:hover .dropdown33{
+  display: block;
+  position: absolute;
+  margin-left: 13.50cm;
+  margin-top: -01.19cm;
+  width: 14.50cm;
+}
+
+.dropdown34{display: none;}
+.dropdown3 ul li:hover .dropdown34{
+  display: block;
+  position: absolute;
+  margin-left: 13.50cm;
+  margin-top: -0.73cm;
+  width: 14.50cm;
+}
+
+.dropdown35{display: none;}
+.dropdown3 ul li:hover .dropdown35{
+  display: block;
+  position: absolute;
+  margin-left: 13.50cm;
+  margin-top: -0.73cm;
+  width: 14.50cm;
+}
+
+.dropdown41{display: none;}
+.dropdown ul li:hover .dropdown41{
+  display: block;
+  position: absolute;
+  margin-left: 13.7cm;
+  margin-top: -0.75cm;
+  width: 14.0cm;
+}
+
+.dropdown411{display: none;}
+.dropdown41 ul li:hover .dropdown411{
+  display: block;
+  position: absolute;
+  margin-left: 13.50cm;
+  margin-top: -0.73cm;
+  width: 14.50cm;
+}
+
+.dropdown421{display: none;}
+.dropdown41 ul li:hover .dropdown421{
+  display: block;
+  position: absolute;
+  margin-left: 13.50cm;
+  margin-top: -0.73cm;
+  width: 14.50cm;
+}
+
+.dropdown431{display: none;}
+.dropdown41 ul li:hover .dropdown431{
+  display: block;
+  position: absolute;
+  margin-left: 13.50cm;
+  margin-top: -0.73cm;
+  width: 14.50cm;
+}
+
+.dropdown51{display: none;}
+.dropdown ul li:hover .dropdown51{
+  display: block;
+  position: absolute;
+  margin-left: 13.7cm;
+  margin-top: -0.75cm;
+  width: 14.0cm;
+}
+
+.dropdown511{display: none;}
+.dropdown51 ul li:hover .dropdown511{
+  display: block;
+  position: absolute;
+  margin-left: 13.50cm;
+  margin-top: -0.73cm;
+  width: 14.50cm;
+}
+
+.dropdown521{display: none;}
+.dropdown51 ul li:hover .dropdown521{
+  display: block;
+  position: absolute;
+  margin-left: 13.50cm;
+  margin-top: -0.73cm;
+  width: 14.50cm;  
+}
+
+.dropdown531{display: none;}
+.dropdown51 ul li:hover .dropdown531{
+  display: block;
+  position: absolute;
+  margin-left: 13.50cm;
+  margin-top: -0.73cm;
+  width: 14.50cm;
+}
+
+.dropdown61{display: none;}
+.dropdown ul li:hover .dropdown61{
+  display: block;
+  position: absolute;
+  margin-left: 13.7cm;
+  margin-top: -0.75cm;
+  width: 14.0cm;
+}
+
+.dropdown611{display: none;}
+.dropdown61 ul li:hover .dropdown611{
+  display: block;
+  position: absolute;
+  margin-left: 13.50cm;
+  margin-top: -0.73cm;
+  width: 14.50cm;
+}
+
+.dropdown621{display: none;}
+.dropdown61 ul li:hover .dropdown621{
+  display: block;
+  position: absolute;
+  margin-left: 13.50cm;
+  margin-top: -0.73cm;
+  width: 14.50cm;
+}
+
+.dropdown631{display: none;}
+.dropdown61 ul li:hover .dropdown631{
+  display: block;
+  position: absolute;
+  margin-left: 13.50cm;
+  margin-top: -0.73cm;
+  width: 14.50cm;
+}
+
+.dropdown641{display: none;}
+.dropdown61 ul li:hover .dropdown641{
+  display: block;
+  position: absolute;
+  margin-left: 13.50cm;
+  margin-top: -0.73cm;
+  width: 14.50cm;
+}
+
+.dropdown71{display: none;}
+.dropdown ul li:hover .dropdown71{
+  display: block;
+  position: absolute;
+  margin-left: 13.7cm;
+  margin-top: -0.75cm;
+  width: 14.0cm;
+}
+
+.dropdown711{display: none;}
+.dropdown71 ul li:hover .dropdown711{
+  display: block;
+  position: absolute;
+  margin-left: 13.50cm;
+  margin-top: -0.73cm;
+  width: 14.50cm;
+}
+
+.dropdown721{display: none;}
+.dropdown71 ul li:hover .dropdown721{
+  display: block;
+  position: absolute;
+  margin-left: 13.50cm;
+  margin-top: -01.1993cm;
+  width: 14.50cm;
+}
+
+.dropdown731{display: none;}
+.dropdown71 ul li:hover .dropdown731{
+  display: block;
+  position: absolute;
+  margin-left: 13.50cm;
+  margin-top: -01.1973cm;
+  width: 14.50cm;
+}
